@@ -1,0 +1,17 @@
+--resource
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_TeslaInfotainment.qrc
+--resource
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appTeslaInfotainment_raw_qml_0.qrc
+/qt/qml/TeslaInfotainment/Main.qml
+/qt/qml/TeslaInfotainment/ui/BottomBar/BottomBar.qml
+/qt/qml/TeslaInfotainment/ui/RightScreen/RightScreen.qml
+/qt/qml/TeslaInfotainment/ui/LeftScreen/LeftScreen.qml
+/qt/qml/TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml
+/qt/qml/TeslaInfotainment/ui/BottomBar/HVACComponent.qml
+/qt/qml/TeslaInfotainment/ui/BottomBar/VolumeControlComponent.qml
+/qt/qml/TeslaInfotainment/ui/CallScreen/CallScreen.qml
+/qt/qml/TeslaInfotainment/ui/CameraScreen/CameraScreen.qml
+/qt/qml/TeslaInfotainment/ui/MoreScreen/MoreScreen.qml
+/qt/qml/TeslaInfotainment/ui/MusicScreen/MusicScreen.qml
+/qt/qml/TeslaInfotainment/ui/RecordScreen/RecordScreen.qml
+/qt/qml/TeslaInfotainment/ui/CalendarScreen/CalendarScreen.qml

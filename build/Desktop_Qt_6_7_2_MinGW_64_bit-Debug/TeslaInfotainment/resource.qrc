@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/assets/naruto.png</file>
+        <file>ui/assets/tesla.png</file>
+        <file>ui/assets/carIcon.png</file>
+        <file>ui/assets/lock.png</file>
+        <file>ui/assets/unlock.png</file>
+        <file>ui/assets/search.png</file>
+        <file>ui/assets/audio0.png</file>
+        <file>ui/assets/audio1.png</file>
+        <file>ui/assets/audio2.png</file>
+        <file>ui/assets/audio3.png</file>
+        <file>ui/assets/telephone.png</file>
+        <file>ui/assets/voice.png</file>
+        <file>ui/assets/camera.png</file>
+        <file>ui/assets/more.png</file>
+        <file>ui/assets/music.png</file>
+        <file>ui/assets/calendar.png</file>
+    </qresource>
+</RCC>

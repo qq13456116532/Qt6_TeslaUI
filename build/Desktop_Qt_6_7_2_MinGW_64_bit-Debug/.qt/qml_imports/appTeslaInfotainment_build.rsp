@@ -1,0 +1,14 @@
+-rootPath
+D:/Qt_projects/TeslaInfotainment
+-cmake-output
+-output-file
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/appTeslaInfotainment_build.cmake
+-importPath
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TeslaInfotainment
+-importPath
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-importPath
+D:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_TeslaInfotainment.qrc
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appTeslaInfotainment_raw_qml_0.qrc

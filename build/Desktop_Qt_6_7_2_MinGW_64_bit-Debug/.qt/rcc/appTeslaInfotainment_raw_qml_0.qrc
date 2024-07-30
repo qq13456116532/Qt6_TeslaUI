@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/qt/qml/TeslaInfotainment/">
+    <file alias="Main.qml">D:/Qt_projects/TeslaInfotainment/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">D:/Qt_projects/TeslaInfotainment/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/NavigationSearchBox.qml">D:/Qt_projects/TeslaInfotainment/ui/RightScreen/NavigationSearchBox.qml</file>
+    <file alias="ui/BottomBar/HVACComponent.qml">D:/Qt_projects/TeslaInfotainment/ui/BottomBar/HVACComponent.qml</file>
+    <file alias="ui/BottomBar/VolumeControlComponent.qml">D:/Qt_projects/TeslaInfotainment/ui/BottomBar/VolumeControlComponent.qml</file>
+    <file alias="ui/CallScreen/CallScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/CallScreen/CallScreen.qml</file>
+    <file alias="ui/CameraScreen/CameraScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/CameraScreen/CameraScreen.qml</file>
+    <file alias="ui/MoreScreen/MoreScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/MoreScreen/MoreScreen.qml</file>
+    <file alias="ui/MusicScreen/MusicScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/MusicScreen/MusicScreen.qml</file>
+    <file alias="ui/RecordScreen/RecordScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/RecordScreen/RecordScreen.qml</file>
+    <file alias="ui/CalendarScreen/CalendarScreen.qml">D:/Qt_projects/TeslaInfotainment/ui/CalendarScreen/CalendarScreen.qml</file>
+    <file alias="resource.qrc">D:/Qt_projects/TeslaInfotainment/resource.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,3 @@
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appTeslaInfotainment_autogen/include/../XUX5SSWLF5/moc_audiocontroller.cpp.json
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appTeslaInfotainment_autogen/include/../XUX5SSWLF5/moc_hvachandler.cpp.json
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appTeslaInfotainment_autogen/include/../XUX5SSWLF5/moc_system.cpp.json

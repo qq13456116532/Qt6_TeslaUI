@@ -1,0 +1,10 @@
+-I
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug
+-I
+D:/Qt/6.7.2/mingw_64/./qml
+--resource
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/qmake_TeslaInfotainment.qrc
+--resource
+D:/Qt_projects/TeslaInfotainment/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/rcc/appTeslaInfotainment_raw_qml_0.qrc
+--module
+TeslaInfotainment
