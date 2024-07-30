@@ -6,13 +6,13 @@
 
 Qt6_TeslaUI is a user interface project built using Qt 6, designed to simulate the interface of Tesla vehicles. This project demonstrates the powerful capabilities of the Qt framework to create modern and responsive user interfaces.
 
-## Features
 
-- **Home**: Displays vehicle status and information
-- **Media Control**: Controls the vehicle's media playback
-- **Navigation System**: Integrates maps and navigation features
-- **Climate Control**: Manages the vehicle's interior temperature and fan settings
-- **Charging Status**: Displays battery charging status and history
+
+## Result
+
+![image-20240730095051830](README-en.assets/image-20240730095051830.png)
+
+
 
 ## Project Structure
 
